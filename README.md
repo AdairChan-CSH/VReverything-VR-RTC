@@ -1,5 +1,5 @@
 # rtc-vr
-VR everything on your desktop without steamvr in addition uses of recordRTC
+VR everything on your desktop without Steamvr in addition uses of recordRTC
 
 
 How to use: About lisence, go ask RTC, recordRTC
