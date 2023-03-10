@@ -1,4 +1,4 @@
-# rtc-vr
+# VR-RTC
 VR everything on your desktop without SteamVR, in addition uses of recordRTC
 
 
