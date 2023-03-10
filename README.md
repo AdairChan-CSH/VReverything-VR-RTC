@@ -1,5 +1,7 @@
 # rtc-vr
 VR everything on your desktop without steamvr in addition uses of recordRTC
+
+
 How to use: About lisence, go ask RTC, recordRTC
 1. download recordRTC on git
 2. put this project files in their simple demo folder
