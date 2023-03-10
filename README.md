@@ -1,5 +1,5 @@
 # rtc-vr
-VR everything on your desktop without Steamvr in addition uses of recordRTC
+VR everything on your desktop without SteamVR, in addition uses of recordRTC
 
 
 How to use: About lisence, go ask RTC, recordRTC
@@ -10,5 +10,5 @@ How to use: About lisence, go ask RTC, recordRTC
 5. put the browsers in between two monitors
 6. turn on VR headset
 7. look for previous browser in your VR headset
-8. put browser full screen
-9. enjoy pain-free VR desktop without crashing to any Streamvr bugs!
+8. put browser full-screen
+9. enjoy pain-free VR desktop without crashing to any StreamVR bugs!
