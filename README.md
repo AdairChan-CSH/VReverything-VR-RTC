@@ -13,3 +13,5 @@ How to use: About license, go ask WebRTC, recordRTC
 7. look for previous browser in your VR headset
 8. put browser full-screen
 9. enjoy pain-free VR desktop without crashing to any StreamVR bugs!
+
+This program provide slightly VR depth and excitment which come from your lens.
