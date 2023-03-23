@@ -1,9 +1,9 @@
 # VReverything-VR-RTC
 
-VR everything on your desktop without SteamVR, in addition uses of recordRTC
+VR everything on your desktop without SteamVR, in addition uses of WebRTC,recordRTC
 
 
-How to use: About license, go ask WebRTC, recordRTC
+How to use:
 1. download recordRTC on git
 2. put this project files in their simple demo folder (no need of hosting)
 3. open 'video-mirror-recording4.html' for normal screen, or 'video-mirror-recording2.html' for larger screen
