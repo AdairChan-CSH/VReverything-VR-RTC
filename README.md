@@ -1,6 +1,6 @@
 # VReverything-VR-RTC
 
-VR everything on your desktop without SteamVR, in addition uses of WebRTC,recordRTC
+VR everything on your desktop without SteamVR, in addition uses of WebRTC, recordRTC
 
 
 How to use:
