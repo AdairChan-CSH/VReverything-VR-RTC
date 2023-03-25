@@ -1,5 +1,6 @@
 # VReverything-VR-RTC
-VR mod for all games
+VR mod for all games.
+
 VR everything on your desktop without SteamVR, in addition uses of WebRTC, recordRTC
 
 
