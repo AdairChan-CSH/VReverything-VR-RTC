@@ -21,6 +21,7 @@ Suggested usage:
 
 This program app can do auto (VR depth) immersive for all computer screen videos, games, man, zombies, flying cars, enemy, 
 when it can be combined the uses of filter, filtering software, for example: Manycam, facefilter3 (but dont use them both at the same time),
+
 when you use third party software Manycam combined with our VReverything-VR-RTC, first right click on small screen template choose you first
 desktop, and on right tab choose--> effect--> filter--> asset store--> fridericksburg no border--> add to it, (<--free)
 
