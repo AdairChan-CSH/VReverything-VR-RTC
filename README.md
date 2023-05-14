@@ -28,6 +28,6 @@ desktop, and on right tab choose--> effect--> filter--> asset store--> friderick
 when you use third party software Facefilter3 combined with our VReverything-VR-RTC, first download new content, choose "winkle or "sample,
 then choose on the effect tab choose lomo--> vintage or background--> vintage-narrow, they sometimes displayed as "sharp or "remove background
 
-At nvidia setting go to desktop color settings, there are 2 set of choices:
+At your nvidia setting, go to desktop color settings, there are 2 set of choices:
 1. reduce gamma by 20%, set brightness 10%, Contrast ratio 90% (good for some videos, not for games clear objects)
 2. reduce gamma by 20%, set brightness 30%, Contrast ratio 10% (good for videos and games)
