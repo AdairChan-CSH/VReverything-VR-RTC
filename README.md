@@ -15,4 +15,12 @@ How to use:
 8. put browser full-screen
 9. enjoy pain-free VR desktop without crashing to any StreamVR bugs!
 
-This program provide slightly VR depth and excitment which come from your lens.
+This program provide slightly VR depth immersive and excitment which come from your lens.
+
+Suggested usage
+This program app can do auto (VR depth) immersive for all computer screen videos, games, man, zombies, flying cars, enemy, 
+when it can be combined the uses of filter, filtering software, for example: Manycam, facefilter3 (but dont use them both at the same time),
+when you use third party software Manycam combined with our VReverything-VR-RTC, first right click on small screen template choose you first
+desktop, and on right tab choose--> effect--> filter--> asset store--> fridericksburg no border--> add to it, (<--free)
+when you use third party software Facefilter3 combined with our VReverything-VR-RTC, first download new content, choose "winkle or "sample,
+then choose on the effect tab choose lomo--> vintage or background--> vintage-narrow, they sometimes displayed as "sharp or "remove background
