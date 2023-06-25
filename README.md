@@ -2,6 +2,7 @@
 VR mod for all games.
 
 VR everything on your desktop without SteamVR, in addition uses of WebRTC, recordRTC
+This program app can do auto (VR depth) immersive for all computer screen videos, games,
 
 
 How to use:
