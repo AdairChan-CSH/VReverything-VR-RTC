@@ -37,3 +37,5 @@ Finally, by adding a clip of 3D polarizer glass adds 25% effect too
 
 This program can be turned into used as Mobile phone Headset as long as to be used with a good VNC app display your 
 second monitor well
+
+Its beautiful
