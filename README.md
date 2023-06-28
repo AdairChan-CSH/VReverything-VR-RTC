@@ -35,5 +35,5 @@ At your nvidia setting, go to desktop color settings, there are 2 set of choices
 
 Finally, by adding a clip of 3D polarizer glass adds 25% effect too
 
-This program can be turned into used as Mobile phone Headset as long as to be used with a good VNC app display your 
+This program can be turned into used as Mobile phone Headset as long as to be used with a good VNC app displays your 
 second monitor well
