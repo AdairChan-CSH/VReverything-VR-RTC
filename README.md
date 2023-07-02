@@ -31,9 +31,7 @@ then choose on the effect tab choose lomo--> vintage or background--> vintage-na
 
 At your nvidia setting, go to desktop color settings, there are 2 set of choices for your headset monitor:
 1. reduce gamma by 20%, set brightness 10%, Contrast ratio 90% (good for some videos, not for games clear objects)
-2. reduce gamma by 20%, set brightness 30%, Contrast ratio 10% (good for games and videos)
-
-Finally, by adding a clip of 3D polarizer glass adds 25% effect too
+2. reduce gamma by 20%, set brightness 30%, Contrast ratio 10% ,green channel gamma 1.08, set brightness 30%, Contrast ratio 37% (good for games and videos)
 
 This program can be turned into used as Mobile phone Headset as long as to be used with a good VNC app displays your 
 second monitor well
