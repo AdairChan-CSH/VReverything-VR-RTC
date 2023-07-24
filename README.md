@@ -24,7 +24,7 @@ This program app can do auto (VR depth) immersive for all computer screen videos
 when it can be combined the uses of filter, filtering software, for example: Manycam, facefilter3 (but dont use them both at the same time),
 
 when you use third party software Manycam combined with our VReverything-VR-RTC, first right click on small screen template choose you first
-desktop, and on right tab choose--> effect--> filter--> asset store--> fridericksburg no border(sometimes turn on and off one more effect "gray lines" each day to remind and renew it)--> add to it, (<--free)
+desktop, and on right tab choose--> effect--> filter--> asset store--> fridericksburg no border(sometimes turn on and off one more effect "gray lines" each day to remind and renew it)--> add to it, use your device but dont use nvidia to decode encode at settings(<--free)
 
 when you use third party software Facefilter3 combined with our VReverything-VR-RTC, first download new content, choose "winkle or "sample,
 then choose on the effect tab choose lomo--> vintage or background--> vintage-narrow, they sometimes displayed as "sharp or "remove background
