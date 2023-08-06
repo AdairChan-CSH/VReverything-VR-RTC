@@ -21,7 +21,7 @@ This program provide slightly VR depth immersive and excitment which come from y
 Suggested usage:
 
 This program app can do auto (VR depth) immersive for all computer screen videos, games, man, zombies, flying cars, enemy, 
-when it can be combined the uses of filter, filtering software, for example: Manycam, facefilter3 (but dont use 1＆2 both at the same time, you can use 1&3),
+when it can be combined the uses of filter, filtering software, for example: Manycam, facefilter3, face-filter-studio-2.0 (but dont use 1＆2 both at the same time, you can use 1&3),
 
 1.when you use third party software Manycam combined with our VReverything-VR-RTC, first right click on small screen template choose you first
 desktop, and on right tab choose--> effect--> filter--> asset store--> fridericksburg no border(sometimes turn on and off one more effect "gray lines" each day to remind and renew it)--> add to it, use your device but dont use nvidia to decode encode at settings(<--free)
