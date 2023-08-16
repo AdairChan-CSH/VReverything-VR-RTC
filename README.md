@@ -34,7 +34,8 @@ choose Select expression--> choose Eleghant--> choose highest strength--> choose
 
 At your nvidia setting, go to desktop color settings, there are 2 set of choices for your headset monitor:
 1. reduce gamma by 20%, set brightness 10%, Contrast ratio 90% (good for some videos, not for games clear objects)
-2. reduce gamma by 20%, set brightness 30%, Contrast ratio 10% ,green channel gamma 1.08, set brightness 42%, Contrast ratio 37% (good for games and videos).
+2. reduce gamma by 20%, set brightness 30%, Contrast ratio 10% ,green channel gamma 1.08, set brightness 42%, Contrast ratio 37% (good for games and videos). If you like it looked like (cardboard) then forget green channel,
+in blue and red channel set brightness 42%, Contrast ratio 37% 
 
 
 Adding green channel settings or 1 clip of 3D polarized glasses
