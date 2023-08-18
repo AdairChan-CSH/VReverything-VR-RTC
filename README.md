@@ -30,7 +30,7 @@ desktop, and on right tab choose--> effect--> filter--> asset store--> friderick
 then choose on the effect tab choose lomo--> vintage or background--> vintage-narrow, they sometimes displayed as "sharp or "remove background
 
 3.(Highest effect)when you use third party software face-filter-studio-2.0 combined with our VReverything-VR-RTC, click Smartcolor--> click next step--> 
-choose Select expression--> choose Eleghant--> choose highest strength--> choose Keep result(Highest effect)
+choose Select expression--> choose Eleghant--> choose highest strength--> choose Keep result(<--Highest effect)
 
 At your nvidia setting, go to desktop color settings, there are 2 set of choices for your headset monitor:
 1. reduce gamma by 20%, set brightness 10%, Contrast ratio 90% (good for some videos, not for games clear objects)
