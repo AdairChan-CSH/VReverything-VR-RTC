@@ -38,7 +38,7 @@ At your nvidia setting, go to desktop color settings, there are 2 set of choices
 channel, in blue and red channel set brightness 42%, Contrast ratio 30%, even brightness 75％
 
 
-Adding channel settings or even 1 clip of 3D polarized glasses
+Adding channel settings or even 1 clip of 3d polarized glasses
 
 This program can be turned into used as Mobile phone Headset as long as to be used with a good VNC app displays your 
 second monitor well
