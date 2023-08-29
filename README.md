@@ -40,7 +40,7 @@ channel, in blue and red channel set brightness 42%, Contrast ratio 30%, even br
 
 Adding channel settings or even 1 clip of 3d polarized glasses
 
-This program can be turned into used as Mobile phone Headset as long as to be used with a good VNC app displays your second monitor well
+This program can be turned into used as Mobile phone Headset as long as to be used with a good VNC app displays your second monitor well, pico4 and quest 2 headsets can use in this way
 
 c.genknight@gmail.com
 
